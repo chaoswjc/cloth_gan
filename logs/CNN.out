@@ -1,0 +1,1000 @@
+0
+Epoch [0/500], d_loss: 0.000028, g_loss: 12.684171 D real: 0.999972, D fake: 0.000000
+1
+Epoch [1/500], d_loss: 0.000642, g_loss: 11.777181 D real: 0.999358, D fake: 0.000000
+2
+Epoch [2/500], d_loss: 0.000005, g_loss: 12.523677 D real: 1.000000, D fake: 0.000005
+3
+Epoch [3/500], d_loss: 0.480621, g_loss: 20.888058 D real: 0.618399, D fake: 0.000000
+4
+Epoch [4/500], d_loss: 0.000000, g_loss: 17.045776 D real: 1.000000, D fake: 0.000000
+5
+Epoch [5/500], d_loss: 0.000731, g_loss: 4.334757 D real: 1.000000, D fake: 0.000730
+6
+Epoch [6/500], d_loss: 0.016767, g_loss: 7.145026 D real: 0.999999, D fake: 0.016627
+7
+Epoch [7/500], d_loss: 0.000172, g_loss: 10.447794 D real: 0.999832, D fake: 0.000003
+8
+Epoch [8/500], d_loss: 0.000034, g_loss: 8.425550 D real: 1.000000, D fake: 0.000034
+9
+Epoch [9/500], d_loss: 0.000399, g_loss: 6.157831 D real: 0.999603, D fake: 0.000002
+10
+Epoch [10/500], d_loss: 0.001184, g_loss: 10.645532 D real: 0.998819, D fake: 0.000002
+11
+Epoch [11/500], d_loss: 0.000028, g_loss: 14.316359 D real: 1.000000, D fake: 0.000028
+12
+Epoch [12/500], d_loss: 0.000015, g_loss: 7.859107 D real: 1.000000, D fake: 0.000014
+13
+Epoch [13/500], d_loss: 0.000838, g_loss: 8.190416 D real: 1.000000, D fake: 0.000837
+14
+Epoch [14/500], d_loss: 0.000061, g_loss: 11.973566 D real: 0.999997, D fake: 0.000059
+15
+Epoch [15/500], d_loss: 0.000864, g_loss: 12.075826 D real: 0.999938, D fake: 0.000801
+16
+Epoch [16/500], d_loss: 0.000072, g_loss: 12.957345 D real: 0.999934, D fake: 0.000006
+17
+Epoch [17/500], d_loss: 0.000684, g_loss: 10.945506 D real: 0.999393, D fake: 0.000078
+18
+Epoch [18/500], d_loss: 0.009493, g_loss: 10.114672 D real: 1.000000, D fake: 0.009448
+19
+Epoch [19/500], d_loss: 6.805244, g_loss: 14.880196 D real: 0.001108, D fake: 0.000000
+20
+Epoch [20/500], d_loss: 0.009907, g_loss: 11.907807 D real: 0.990144, D fake: 0.000002
+21
+Epoch [21/500], d_loss: 0.016764, g_loss: 8.998147 D real: 0.983872, D fake: 0.000505
+22
+Epoch [22/500], d_loss: 0.018040, g_loss: 8.665042 D real: 0.982132, D fake: 0.000010
+23
+Epoch [23/500], d_loss: 0.002958, g_loss: 2.819185 D real: 0.999904, D fake: 0.002857
+24
+Epoch [24/500], d_loss: 0.193817, g_loss: 6.229565 D real: 0.823837, D fake: 0.000033
+25
+Epoch [25/500], d_loss: 0.000496, g_loss: 8.972327 D real: 0.999836, D fake: 0.000332
+26
+Epoch [26/500], d_loss: 0.029433, g_loss: 5.427025 D real: 0.978486, D fake: 0.007655
+27
+Epoch [27/500], d_loss: 0.005873, g_loss: 10.612717 D real: 1.000000, D fake: 0.005856
+28
+Epoch [28/500], d_loss: 0.003253, g_loss: 9.364627 D real: 0.998484, D fake: 0.001734
+29
+Epoch [29/500], d_loss: 0.010694, g_loss: 14.752096 D real: 0.989526, D fake: 0.000165
+30
+Epoch [30/500], d_loss: 0.111296, g_loss: 2.002542 D real: 0.895947, D fake: 0.001421
+31
+Epoch [31/500], d_loss: 0.003159, g_loss: 15.126884 D real: 0.996846, D fake: 0.000000
+32
+Epoch [32/500], d_loss: 0.033187, g_loss: 5.613561 D real: 0.969136, D fake: 0.001835
+33
+Epoch [33/500], d_loss: 0.040861, g_loss: 6.986008 D real: 0.999964, D fake: 0.040003
+34
+Epoch [34/500], d_loss: 0.014471, g_loss: 10.573546 D real: 0.985641, D fake: 0.000008
+35
+Epoch [35/500], d_loss: 0.527050, g_loss: 2.908198 D real: 0.590374, D fake: 0.000050
+36
+Epoch [36/500], d_loss: 0.001251, g_loss: 5.581887 D real: 0.999131, D fake: 0.000382
+37
+Epoch [37/500], d_loss: 0.032522, g_loss: 4.279391 D real: 0.968043, D fake: 0.000043
+38
+Epoch [38/500], d_loss: 0.054727, g_loss: 7.605219 D real: 0.946897, D fake: 0.000162
+39
+Epoch [39/500], d_loss: 0.033626, g_loss: 7.539513 D real: 0.987363, D fake: 0.020691
+40
+Epoch [40/500], d_loss: 0.124281, g_loss: 6.914899 D real: 0.995200, D fake: 0.112609
+41
+Epoch [41/500], d_loss: 0.000134, g_loss: 8.605615 D real: 0.999917, D fake: 0.000050
+42
+Epoch [42/500], d_loss: 0.005993, g_loss: 8.869015 D real: 0.999477, D fake: 0.005455
+43
+Epoch [43/500], d_loss: 0.001593, g_loss: 4.206190 D real: 0.998849, D fake: 0.000442
+44
+Epoch [44/500], d_loss: 0.009564, g_loss: 3.048075 D real: 0.991505, D fake: 0.001033
+45
+Epoch [45/500], d_loss: 1.493785, g_loss: 9.900363 D real: 0.224526, D fake: 0.000021
+46
+Epoch [46/500], d_loss: 2.985303, g_loss: 5.322083 D real: 0.051243, D fake: 0.014027
+47
+Epoch [47/500], d_loss: 0.003080, g_loss: 5.735954 D real: 0.999994, D fake: 0.003070
+48
+Epoch [48/500], d_loss: 0.002878, g_loss: 7.094818 D real: 0.998424, D fake: 0.001300
+49
+Epoch [49/500], d_loss: 0.005543, g_loss: 5.091979 D real: 1.000000, D fake: 0.005527
+50
+Epoch [50/500], d_loss: 0.005857, g_loss: 4.422604 D real: 0.998536, D fake: 0.004382
+51
+Epoch [51/500], d_loss: 0.003664, g_loss: 5.607804 D real: 0.999021, D fake: 0.002681
+52
+Epoch [52/500], d_loss: 0.008538, g_loss: 5.935736 D real: 0.999805, D fake: 0.008308
+53
+Epoch [53/500], d_loss: 0.012423, g_loss: 6.496730 D real: 0.988863, D fake: 0.001223
+54
+Epoch [54/500], d_loss: 0.142234, g_loss: 7.436687 D real: 0.868152, D fake: 0.000846
+55
+Epoch [55/500], d_loss: 0.021214, g_loss: 3.897513 D real: 0.999992, D fake: 0.020983
+56
+Epoch [56/500], d_loss: 0.145479, g_loss: 4.969731 D real: 0.882054, D fake: 0.019779
+57
+Epoch [57/500], d_loss: 0.106746, g_loss: 6.300102 D real: 0.999809, D fake: 0.101075
+58
+Epoch [58/500], d_loss: 0.209386, g_loss: 6.548217 D real: 0.811535, D fake: 0.000557
+59
+Epoch [59/500], d_loss: 0.053105, g_loss: 2.414721 D real: 0.999982, D fake: 0.051702
+60
+Epoch [60/500], d_loss: 0.111065, g_loss: 4.597965 D real: 0.895704, D fake: 0.000918
+61
+Epoch [61/500], d_loss: 0.004775, g_loss: 5.874967 D real: 0.998303, D fake: 0.003072
+62
+Epoch [62/500], d_loss: 0.042373, g_loss: 4.938924 D real: 0.999965, D fake: 0.041454
+63
+Epoch [63/500], d_loss: 0.004853, g_loss: 8.112946 D real: 0.997212, D fake: 0.002058
+64
+Epoch [64/500], d_loss: 0.003499, g_loss: 5.452652 D real: 0.999991, D fake: 0.003484
+65
+Epoch [65/500], d_loss: 0.149073, g_loss: 9.086860 D real: 0.863054, D fake: 0.001794
+66
+Epoch [66/500], d_loss: 2.066559, g_loss: 7.616809 D real: 0.126646, D fake: 0.000201
+67
+Epoch [67/500], d_loss: 0.248475, g_loss: 4.923342 D real: 0.999989, D fake: 0.220002
+68
+Epoch [68/500], d_loss: 1.946674, g_loss: 7.260871 D real: 0.142813, D fake: 0.000457
+69
+Epoch [69/500], d_loss: 0.138360, g_loss: 5.993528 D real: 0.871690, D fake: 0.001039
+70
+Epoch [70/500], d_loss: 0.011605, g_loss: 4.145591 D real: 1.000000, D fake: 0.011538
+71
+Epoch [71/500], d_loss: 0.741300, g_loss: 4.456945 D real: 0.495732, D fake: 0.038807
+72
+Epoch [72/500], d_loss: 0.290688, g_loss: 1.784268 D real: 0.756921, D fake: 0.012118
+73
+Epoch [73/500], d_loss: 0.335561, g_loss: 3.452063 D real: 0.999161, D fake: 0.284463
+74
+Epoch [74/500], d_loss: 0.000909, g_loss: 6.098651 D real: 0.999442, D fake: 0.000351
+75
+Epoch [75/500], d_loss: 0.416561, g_loss: 7.211857 D real: 0.999854, D fake: 0.340594
+76
+Epoch [76/500], d_loss: 0.002718, g_loss: 11.094470 D real: 0.997554, D fake: 0.000269
+77
+Epoch [77/500], d_loss: 0.000989, g_loss: 3.371692 D real: 0.999359, D fake: 0.000348
+78
+Epoch [78/500], d_loss: 3.221057, g_loss: 4.003957 D real: 0.039914, D fake: 0.000024
+79
+Epoch [79/500], d_loss: 0.007706, g_loss: 4.958614 D real: 0.999968, D fake: 0.007644
+80
+Epoch [80/500], d_loss: 0.059258, g_loss: 3.152079 D real: 0.999982, D fake: 0.057519
+81
+Epoch [81/500], d_loss: 0.018435, g_loss: 5.755452 D real: 0.981970, D fake: 0.000241
+82
+Epoch [82/500], d_loss: 0.255848, g_loss: 8.600259 D real: 0.998346, D fake: 0.224458
+83
+Epoch [83/500], d_loss: 0.005329, g_loss: 2.764040 D real: 0.999873, D fake: 0.005188
+84
+Epoch [84/500], d_loss: 2.096332, g_loss: 5.459932 D real: 0.123066, D fake: 0.001298
+85
+Epoch [85/500], d_loss: 0.160578, g_loss: 6.174026 D real: 0.999030, D fake: 0.147521
+86
+Epoch [86/500], d_loss: 0.006279, g_loss: 7.687152 D real: 0.999931, D fake: 0.006191
+87
+Epoch [87/500], d_loss: 0.858324, g_loss: 4.465889 D real: 0.999240, D fake: 0.575806
+88
+Epoch [88/500], d_loss: 0.042615, g_loss: 6.953070 D real: 0.959224, D fake: 0.000984
+89
+Epoch [89/500], d_loss: 0.161137, g_loss: 9.831334 D real: 0.851263, D fake: 0.000102
+90
+Epoch [90/500], d_loss: 0.001671, g_loss: 9.638658 D real: 0.999991, D fake: 0.001660
+91
+Epoch [91/500], d_loss: 0.113010, g_loss: 4.375281 D real: 1.000000, D fake: 0.106858
+92
+Epoch [92/500], d_loss: 0.004047, g_loss: 8.593049 D real: 0.999999, D fake: 0.004038
+93
+Epoch [93/500], d_loss: 0.000417, g_loss: 5.997452 D real: 1.000000, D fake: 0.000417
+94
+Epoch [94/500], d_loss: 0.002292, g_loss: 1.248282 D real: 0.997785, D fake: 0.000075
+95
+Epoch [95/500], d_loss: 0.015601, g_loss: 5.735051 D real: 0.991690, D fake: 0.007230
+96
+Epoch [96/500], d_loss: 0.004987, g_loss: 5.016200 D real: 0.996210, D fake: 0.001189
+97
+Epoch [97/500], d_loss: 0.034268, g_loss: 8.665902 D real: 0.966382, D fake: 0.000072
+98
+Epoch [98/500], d_loss: 0.475998, g_loss: 5.970826 D real: 0.800294, D fake: 0.223705
+99
+Epoch [99/500], d_loss: 0.452646, g_loss: 4.028282 D real: 0.636851, D fake: 0.001426
+100
+Epoch [100/500], d_loss: 3.295526, g_loss: 8.562372 D real: 0.037078, D fake: 0.000782
+101
+Epoch [101/500], d_loss: 0.007475, g_loss: 7.867055 D real: 1.000000, D fake: 0.007448
+102
+Epoch [102/500], d_loss: 0.003198, g_loss: 8.588243 D real: 0.999972, D fake: 0.003164
+103
+Epoch [103/500], d_loss: 0.078382, g_loss: 2.929221 D real: 0.976353, D fake: 0.052994
+104
+Epoch [104/500], d_loss: 0.000424, g_loss: 4.775952 D real: 0.999724, D fake: 0.000148
+105
+Epoch [105/500], d_loss: 0.272414, g_loss: 7.327651 D real: 0.974533, D fake: 0.218561
+106
+Epoch [106/500], d_loss: 0.029756, g_loss: 7.327651 D real: 0.970703, D fake: 0.000021
+107
+Epoch [107/500], d_loss: 0.000363, g_loss: 7.888234 D real: 1.000000, D fake: 0.000363
+108
+Epoch [108/500], d_loss: 0.001379, g_loss: 4.952396 D real: 0.999944, D fake: 0.001323
+109
+Epoch [109/500], d_loss: 1.061016, g_loss: 7.198844 D real: 0.346892, D fake: 0.002272
+110
+Epoch [110/500], d_loss: 0.001508, g_loss: 6.764093 D real: 0.999998, D fake: 0.001505
+111
+Epoch [111/500], d_loss: 0.001739, g_loss: 6.198070 D real: 0.998569, D fake: 0.000307
+112
+Epoch [112/500], d_loss: 0.002997, g_loss: 6.127731 D real: 1.000000, D fake: 0.002992
+113
+Epoch [113/500], d_loss: 0.023774, g_loss: 4.594007 D real: 0.997568, D fake: 0.021113
+114
+Epoch [114/500], d_loss: 0.000252, g_loss: 7.701560 D real: 0.999965, D fake: 0.000217
+115
+Epoch [115/500], d_loss: 0.000244, g_loss: 6.625344 D real: 0.999985, D fake: 0.000229
+116
+Epoch [116/500], d_loss: 0.000123, g_loss: 9.320662 D real: 0.999992, D fake: 0.000115
+117
+Epoch [117/500], d_loss: 0.002200, g_loss: 2.734848 D real: 0.999961, D fake: 0.002159
+118
+Epoch [118/500], d_loss: 0.903846, g_loss: 3.788639 D real: 0.919287, D fake: 0.559432
+119
+Epoch [119/500], d_loss: 0.018268, g_loss: 9.577789 D real: 0.999993, D fake: 0.018096
+120
+Epoch [120/500], d_loss: 0.004546, g_loss: 8.923004 D real: 0.995748, D fake: 0.000284
+121
+Epoch [121/500], d_loss: 0.530216, g_loss: 6.757814 D real: 0.589068, D fake: 0.001001
+122
+Epoch [122/500], d_loss: 3.521648, g_loss: 1.633061 D real: 0.029601, D fake: 0.001684
+123
+Epoch [123/500], d_loss: 0.052994, g_loss: 3.062801 D real: 0.999306, D fake: 0.050956
+124
+Epoch [124/500], d_loss: 0.023968, g_loss: 6.890262 D real: 0.980386, D fake: 0.004151
+125
+Epoch [125/500], d_loss: 0.010189, g_loss: 8.131508 D real: 0.999817, D fake: 0.009956
+126
+Epoch [126/500], d_loss: 0.001974, g_loss: 8.278609 D real: 0.999072, D fake: 0.001045
+127
+Epoch [127/500], d_loss: 0.005130, g_loss: 7.908578 D real: 1.000000, D fake: 0.005116
+128
+Epoch [128/500], d_loss: 0.026350, g_loss: 7.263018 D real: 0.974286, D fake: 0.000300
+129
+Epoch [129/500], d_loss: 0.001001, g_loss: 4.152283 D real: 0.999141, D fake: 0.000142
+130
+Epoch [130/500], d_loss: 0.018381, g_loss: 3.370195 D real: 0.981843, D fake: 0.000057
+131
+Epoch [131/500], d_loss: 0.040424, g_loss: 7.274677 D real: 0.966393, D fake: 0.006220
+132
+Epoch [132/500], d_loss: 0.000083, g_loss: 12.269484 D real: 0.999997, D fake: 0.000080
+133
+Epoch [133/500], d_loss: 0.000395, g_loss: 3.618964 D real: 1.000000, D fake: 0.000394
+134
+Epoch [134/500], d_loss: 0.313976, g_loss: 5.419796 D real: 0.730655, D fake: 0.000162
+135
+Epoch [135/500], d_loss: 0.004312, g_loss: 4.756737 D real: 0.998813, D fake: 0.003119
+136
+Epoch [136/500], d_loss: 0.272398, g_loss: 3.696086 D real: 0.764132, D fake: 0.003378
+137
+Epoch [137/500], d_loss: 0.018849, g_loss: 5.857637 D real: 0.999945, D fake: 0.018618
+138
+Epoch [138/500], d_loss: 0.013919, g_loss: 3.297360 D real: 0.990106, D fake: 0.003968
+139
+Epoch [139/500], d_loss: 0.008087, g_loss: 4.110909 D real: 0.999995, D fake: 0.008049
+140
+Epoch [140/500], d_loss: 0.000224, g_loss: 8.981744 D real: 0.999999, D fake: 0.000223
+141
+Epoch [141/500], d_loss: 0.000574, g_loss: 5.345048 D real: 1.000000, D fake: 0.000574
+142
+Epoch [142/500], d_loss: 0.000005, g_loss: 9.690825 D real: 1.000000, D fake: 0.000004
+143
+Epoch [143/500], d_loss: 0.054488, g_loss: 7.065463 D real: 0.951009, D fake: 0.004248
+144
+Epoch [144/500], d_loss: 0.004201, g_loss: 4.834525 D real: 0.999989, D fake: 0.004182
+145
+Epoch [145/500], d_loss: 0.037747, g_loss: 8.285502 D real: 0.998703, D fake: 0.035793
+146
+Epoch [146/500], d_loss: 0.017311, g_loss: 9.932110 D real: 0.982951, D fake: 0.000115
+147
+Epoch [147/500], d_loss: 0.152219, g_loss: 7.484866 D real: 0.858926, D fake: 0.000147
+148
+Epoch [148/500], d_loss: 0.249214, g_loss: 7.007151 D real: 0.779509, D fake: 0.000123
+149
+Epoch [149/500], d_loss: 0.143083, g_loss: 8.074267 D real: 0.866747, D fake: 0.000075
+150
+Epoch [150/500], d_loss: 0.022662, g_loss: 8.745171 D real: 0.999993, D fake: 0.022400
+151
+Epoch [151/500], d_loss: 0.324196, g_loss: 6.470087 D real: 1.000000, D fake: 0.276891
+152
+Epoch [152/500], d_loss: 0.000440, g_loss: 4.998352 D real: 0.999999, D fake: 0.000439
+153
+Epoch [153/500], d_loss: 1.233354, g_loss: 9.500299 D real: 0.291320, D fake: 0.000021
+154
+Epoch [154/500], d_loss: 0.038437, g_loss: 3.017260 D real: 0.964865, D fake: 0.002665
+155
+Epoch [155/500], d_loss: 0.028405, g_loss: 8.063163 D real: 0.973319, D fake: 0.001361
+156
+Epoch [156/500], d_loss: 0.001667, g_loss: 6.366074 D real: 0.999859, D fake: 0.001524
+157
+Epoch [157/500], d_loss: 0.125016, g_loss: 9.569736 D real: 0.882731, D fake: 0.000282
+158
+Epoch [158/500], d_loss: 1.639652, g_loss: 3.585852 D real: 0.196109, D fake: 0.010514
+159
+Epoch [159/500], d_loss: 0.012788, g_loss: 4.650976 D real: 0.988598, D fake: 0.001320
+160
+Epoch [160/500], d_loss: 0.020906, g_loss: 6.569853 D real: 0.989221, D fake: 0.010018
+161
+Epoch [161/500], d_loss: 0.008190, g_loss: 8.516937 D real: 0.996874, D fake: 0.005047
+162
+Epoch [162/500], d_loss: 0.000823, g_loss: 6.048563 D real: 0.999578, D fake: 0.000401
+163
+Epoch [163/500], d_loss: 0.001011, g_loss: 8.590633 D real: 0.999819, D fake: 0.000829
+164
+Epoch [164/500], d_loss: 0.061497, g_loss: 7.675350 D real: 0.999982, D fake: 0.059627
+165
+Epoch [165/500], d_loss: 0.032208, g_loss: 7.485571 D real: 0.995467, D fake: 0.027285
+166
+Epoch [166/500], d_loss: 0.000871, g_loss: 7.408887 D real: 0.999726, D fake: 0.000596
+167
+Epoch [167/500], d_loss: 0.110217, g_loss: 9.468442 D real: 0.895956, D fake: 0.000353
+168
+Epoch [168/500], d_loss: 0.023029, g_loss: 7.849108 D real: 0.999816, D fake: 0.022586
+169
+Epoch [169/500], d_loss: 0.000230, g_loss: 3.057415 D real: 0.999998, D fake: 0.000227
+170
+Epoch [170/500], d_loss: 0.007069, g_loss: 8.120399 D real: 0.999273, D fake: 0.006321
+171
+Epoch [171/500], d_loss: 0.078689, g_loss: 3.484452 D real: 0.924817, D fake: 0.000530
+172
+Epoch [172/500], d_loss: 0.536622, g_loss: 11.212464 D real: 0.584801, D fake: 0.000138
+173
+Epoch [173/500], d_loss: 1.788360, g_loss: 10.360995 D real: 0.167293, D fake: 0.000349
+174
+Epoch [174/500], d_loss: 0.064482, g_loss: 11.520641 D real: 0.937583, D fake: 0.000032
+175
+Epoch [175/500], d_loss: 0.000086, g_loss: 10.554066 D real: 0.999997, D fake: 0.000083
+176
+Epoch [176/500], d_loss: 0.907220, g_loss: 7.090887 D real: 0.403698, D fake: 0.000131
+177
+Epoch [177/500], d_loss: 0.084693, g_loss: 4.069670 D real: 0.919460, D fake: 0.000724
+178
+Epoch [178/500], d_loss: 0.065786, g_loss: 7.658719 D real: 0.936390, D fake: 0.000063
+179
+Epoch [179/500], d_loss: 0.017335, g_loss: 5.158362 D real: 0.999781, D fake: 0.016970
+180
+Epoch [180/500], d_loss: 0.769596, g_loss: 7.385754 D real: 0.465247, D fake: 0.004398
+181
+Epoch [181/500], d_loss: 1.082014, g_loss: 5.956322 D real: 0.339322, D fake: 0.001208
+182
+Epoch [182/500], d_loss: 0.004869, g_loss: 11.331087 D real: 0.999999, D fake: 0.004856
+183
+Epoch [183/500], d_loss: 0.004137, g_loss: 8.301087 D real: 0.997141, D fake: 0.001273
+184
+Epoch [184/500], d_loss: 0.000077, g_loss: 7.149065 D real: 1.000000, D fake: 0.000077
+185
+Epoch [185/500], d_loss: 0.001513, g_loss: 5.976944 D real: 1.000000, D fake: 0.001512
+186
+Epoch [186/500], d_loss: 0.076606, g_loss: 7.509977 D real: 0.926267, D fake: 0.000013
+187
+Epoch [187/500], d_loss: 0.016884, g_loss: 8.671494 D real: 0.996787, D fake: 0.013573
+188
+Epoch [188/500], d_loss: 0.155051, g_loss: 9.048420 D real: 0.856530, D fake: 0.000185
+189
+Epoch [189/500], d_loss: 3.114381, g_loss: 6.343780 D real: 0.048683, D fake: 0.087852
+190
+Epoch [190/500], d_loss: 0.021777, g_loss: 6.406099 D real: 0.978484, D fake: 0.000027
+191
+Epoch [191/500], d_loss: 0.000161, g_loss: 9.352747 D real: 0.999983, D fake: 0.000144
+192
+Epoch [192/500], d_loss: 0.001017, g_loss: 10.651802 D real: 0.998993, D fake: 0.000009
+193
+Epoch [193/500], d_loss: 0.193412, g_loss: 6.533505 D real: 1.000000, D fake: 0.175858
+194
+Epoch [194/500], d_loss: 0.029948, g_loss: 7.488222 D real: 0.975244, D fake: 0.004868
+195
+Epoch [195/500], d_loss: 0.000748, g_loss: 5.949164 D real: 0.999994, D fake: 0.000741
+196
+Epoch [196/500], d_loss: 0.000035, g_loss: 8.051517 D real: 1.000000, D fake: 0.000034
+197
+Epoch [197/500], d_loss: 0.024000, g_loss: 5.371851 D real: 0.991313, D fake: 0.015159
+198
+Epoch [198/500], d_loss: 1.615798, g_loss: 4.969212 D real: 0.200608, D fake: 0.009351
+199
+Epoch [199/500], d_loss: 0.024244, g_loss: 2.174838 D real: 0.978527, D fake: 0.002534
+200
+Epoch [200/500], d_loss: 0.291537, g_loss: 7.084787 D real: 0.748339, D fake: 0.001636
+201
+Epoch [201/500], d_loss: 0.072253, g_loss: 1.234531 D real: 1.000000, D fake: 0.069704
+202
+Epoch [202/500], d_loss: 0.006829, g_loss: 8.398631 D real: 1.000000, D fake: 0.006806
+203
+Epoch [203/500], d_loss: 3.961437, g_loss: 6.561460 D real: 0.019036, D fake: 0.000016
+204
+Epoch [204/500], d_loss: 0.072402, g_loss: 6.200780 D real: 0.930344, D fake: 0.000201
+205
+Epoch [205/500], d_loss: 0.048490, g_loss: 4.323415 D real: 0.971191, D fake: 0.019073
+206
+Epoch [206/500], d_loss: 1.874770, g_loss: 0.186141 D real: 0.154579, D fake: 0.007689
+207
+Epoch [207/500], d_loss: 0.510778, g_loss: 3.261481 D real: 0.998008, D fake: 0.398774
+208
+Epoch [208/500], d_loss: 0.165694, g_loss: 7.309889 D real: 0.847396, D fake: 0.000106
+209
+Epoch [209/500], d_loss: 0.141768, g_loss: 10.637496 D real: 0.867870, D fake: 0.000054
+210
+Epoch [210/500], d_loss: 0.030970, g_loss: 9.926351 D real: 0.970126, D fake: 0.000640
+211
+Epoch [211/500], d_loss: 0.004829, g_loss: 3.359282 D real: 0.995689, D fake: 0.000509
+212
+Epoch [212/500], d_loss: 1.072406, g_loss: 3.276557 D real: 0.342409, D fake: 0.000656
+213
+Epoch [213/500], d_loss: 0.000643, g_loss: 4.112024 D real: 0.999519, D fake: 0.000162
+214
+Epoch [214/500], d_loss: 0.005069, g_loss: 9.854810 D real: 0.999911, D fake: 0.004967
+215
+Epoch [215/500], d_loss: 1.277557, g_loss: 6.855573 D real: 0.279234, D fake: 0.001849
+216
+Epoch [216/500], d_loss: 0.510758, g_loss: 7.119835 D real: 0.659145, D fake: 0.089669
+217
+Epoch [217/500], d_loss: 0.010070, g_loss: 7.103457 D real: 0.990069, D fake: 0.000089
+218
+Epoch [218/500], d_loss: 0.000083, g_loss: 8.146918 D real: 0.999991, D fake: 0.000074
+219
+Epoch [219/500], d_loss: 0.000069, g_loss: 7.052297 D real: 1.000000, D fake: 0.000069
+220
+Epoch [220/500], d_loss: 1.517290, g_loss: 7.922152 D real: 0.219313, D fake: 0.000033
+221
+Epoch [221/500], d_loss: 0.001793, g_loss: 10.598143 D real: 0.998303, D fake: 0.000095
+222
+Epoch [222/500], d_loss: 0.093440, g_loss: 7.172981 D real: 0.911646, D fake: 0.000936
+223
+Epoch [223/500], d_loss: 0.085993, g_loss: 2.019050 D real: 0.999626, D fake: 0.082056
+224
+Epoch [224/500], d_loss: 2.257655, g_loss: 9.776585 D real: 0.104598, D fake: 0.000025
+225
+Epoch [225/500], d_loss: 0.063589, g_loss: 4.205106 D real: 0.942076, D fake: 0.003912
+226
+Epoch [226/500], d_loss: 0.274670, g_loss: 10.252290 D real: 0.773285, D fake: 0.017408
+227
+Epoch [227/500], d_loss: 0.149692, g_loss: 6.427093 D real: 0.863508, D fake: 0.002936
+228
+Epoch [228/500], d_loss: 0.000009, g_loss: 7.964034 D real: 1.000000, D fake: 0.000009
+229
+Epoch [229/500], d_loss: 0.000591, g_loss: 4.620484 D real: 0.999975, D fake: 0.000565
+230
+Epoch [230/500], d_loss: 0.002459, g_loss: 6.342467 D real: 1.000000, D fake: 0.002456
+231
+Epoch [231/500], d_loss: 6.358014, g_loss: 7.032390 D real: 0.001733, D fake: 0.000135
+232
+Epoch [232/500], d_loss: 0.000294, g_loss: 7.252981 D real: 1.000000, D fake: 0.000294
+233
+Epoch [233/500], d_loss: 0.185608, g_loss: 5.738074 D real: 0.991960, D fake: 0.162669
+234
+Epoch [234/500], d_loss: 0.237095, g_loss: 7.157880 D real: 0.790743, D fake: 0.002310
+235
+Epoch [235/500], d_loss: 0.530166, g_loss: 6.170418 D real: 0.589235, D fake: 0.001235
+236
+Epoch [236/500], d_loss: 0.044392, g_loss: 1.884250 D real: 0.961287, D fake: 0.004897
+237
+Epoch [237/500], d_loss: 0.002868, g_loss: 6.078033 D real: 0.997178, D fake: 0.000042
+238
+Epoch [238/500], d_loss: 0.037418, g_loss: 6.334701 D real: 0.999999, D fake: 0.036726
+239
+Epoch [239/500], d_loss: 0.002432, g_loss: 8.492649 D real: 0.999951, D fake: 0.002379
+240
+Epoch [240/500], d_loss: 0.046403, g_loss: 4.891377 D real: 0.954667, D fake: 0.000010
+241
+Epoch [241/500], d_loss: 1.017140, g_loss: 8.676475 D real: 0.361638, D fake: 0.000028
+242
+Epoch [242/500], d_loss: 0.008355, g_loss: 6.444605 D real: 1.000000, D fake: 0.008320
+243
+Epoch [243/500], d_loss: 0.449038, g_loss: 5.039562 D real: 0.638751, D fake: 0.000797
+244
+Epoch [244/500], d_loss: 0.000555, g_loss: 9.094380 D real: 0.999462, D fake: 0.000017
+245
+Epoch [245/500], d_loss: 0.011689, g_loss: 8.510926 D real: 0.999994, D fake: 0.011615
+246
+Epoch [246/500], d_loss: 0.000374, g_loss: 7.745845 D real: 1.000000, D fake: 0.000374
+247
+Epoch [247/500], d_loss: 0.352285, g_loss: 7.695564 D real: 0.703293, D fake: 0.000303
+248
+Epoch [248/500], d_loss: 0.005315, g_loss: 5.671960 D real: 1.000000, D fake: 0.005301
+249
+Epoch [249/500], d_loss: 0.000611, g_loss: 8.629704 D real: 0.999967, D fake: 0.000578
+250
+Epoch [250/500], d_loss: 0.000199, g_loss: 9.138978 D real: 0.999979, D fake: 0.000178
+251
+Epoch [251/500], d_loss: 0.294723, g_loss: 11.666634 D real: 0.745608, D fake: 0.001167
+252
+Epoch [252/500], d_loss: 0.903099, g_loss: 0.410504 D real: 0.413331, D fake: 0.019402
+253
+Epoch [253/500], d_loss: 0.000785, g_loss: 9.950167 D real: 0.999987, D fake: 0.000771
+254
+Epoch [254/500], d_loss: 0.340818, g_loss: 9.261970 D real: 0.711762, D fake: 0.000806
+255
+Epoch [255/500], d_loss: 0.001245, g_loss: 4.110994 D real: 0.999999, D fake: 0.001244
+256
+Epoch [256/500], d_loss: 0.094309, g_loss: 5.638410 D real: 0.998152, D fake: 0.088314
+257
+Epoch [257/500], d_loss: 0.002442, g_loss: 8.806156 D real: 0.998439, D fake: 0.000878
+258
+Epoch [258/500], d_loss: 0.221725, g_loss: 3.765287 D real: 0.801149, D fake: 0.000017
+259
+Epoch [259/500], d_loss: 0.897393, g_loss: 5.548426 D real: 0.407797, D fake: 0.000408
+260
+Epoch [260/500], d_loss: 0.005018, g_loss: 3.919293 D real: 0.999310, D fake: 0.004319
+261
+Epoch [261/500], d_loss: 0.000230, g_loss: 5.753180 D real: 0.999998, D fake: 0.000228
+262
+Epoch [262/500], d_loss: 0.001427, g_loss: 5.102217 D real: 0.999992, D fake: 0.001418
+263
+Epoch [263/500], d_loss: 0.007641, g_loss: 7.897099 D real: 0.999946, D fake: 0.007558
+264
+Epoch [264/500], d_loss: 0.000054, g_loss: 7.326643 D real: 0.999973, D fake: 0.000027
+265
+Epoch [265/500], d_loss: 0.102926, g_loss: 3.365752 D real: 0.902366, D fake: 0.000191
+266
+Epoch [266/500], d_loss: 3.144955, g_loss: 9.506772 D real: 0.043071, D fake: 0.000039
+267
+Epoch [267/500], d_loss: 0.000063, g_loss: 3.849154 D real: 0.999991, D fake: 0.000054
+268
+Epoch [268/500], d_loss: 0.000782, g_loss: 8.466834 D real: 0.999933, D fake: 0.000715
+269
+Epoch [269/500], d_loss: 0.021212, g_loss: 4.930986 D real: 0.979907, D fake: 0.000914
+270
+Epoch [270/500], d_loss: 0.001080, g_loss: 4.907753 D real: 1.000000, D fake: 0.001080
+271
+Epoch [271/500], d_loss: 0.013516, g_loss: 3.492107 D real: 0.999196, D fake: 0.012631
+272
+Epoch [272/500], d_loss: 0.440439, g_loss: 5.048407 D real: 0.998674, D fake: 0.355391
+273
+Epoch [273/500], d_loss: 0.068628, g_loss: 6.190999 D real: 0.941687, D fake: 0.008509
+274
+Epoch [274/500], d_loss: 0.002023, g_loss: 8.414353 D real: 0.998750, D fake: 0.000772
+275
+Epoch [275/500], d_loss: 0.000171, g_loss: 9.941328 D real: 0.999994, D fake: 0.000165
+276
+Epoch [276/500], d_loss: 0.000424, g_loss: 8.392419 D real: 0.999999, D fake: 0.000423
+277
+Epoch [277/500], d_loss: 0.000173, g_loss: 7.790237 D real: 1.000000, D fake: 0.000173
+278
+Epoch [278/500], d_loss: 0.000170, g_loss: 11.555244 D real: 0.999911, D fake: 0.000081
+279
+Epoch [279/500], d_loss: 0.000162, g_loss: 3.505380 D real: 0.999998, D fake: 0.000160
+280
+Epoch [280/500], d_loss: 0.000406, g_loss: 9.552472 D real: 1.000000, D fake: 0.000406
+281
+Epoch [281/500], d_loss: 3.195663, g_loss: 2.424839 D real: 0.040975, D fake: 0.000874
+282
+Epoch [282/500], d_loss: 2.050218, g_loss: 5.577150 D real: 0.128715, D fake: 0.000061
+283
+Epoch [283/500], d_loss: 0.000733, g_loss: 10.254336 D real: 1.000000, D fake: 0.000733
+284
+Epoch [284/500], d_loss: 8.031751, g_loss: 2.580648 D real: 0.000325, D fake: 0.000005
+285
+Epoch [285/500], d_loss: 0.016420, g_loss: 4.406872 D real: 0.983728, D fake: 0.000014
+286
+Epoch [286/500], d_loss: 0.024732, g_loss: 3.670703 D real: 1.000000, D fake: 0.024428
+287
+Epoch [287/500], d_loss: 0.000117, g_loss: 6.147338 D real: 1.000000, D fake: 0.000117
+288
+Epoch [288/500], d_loss: 0.006980, g_loss: 4.231774 D real: 0.993102, D fake: 0.000059
+289
+Epoch [289/500], d_loss: 0.032561, g_loss: 4.854115 D real: 0.982945, D fake: 0.015241
+290
+Epoch [290/500], d_loss: 0.116292, g_loss: 11.308323 D real: 0.999918, D fake: 0.109712
+291
+Epoch [291/500], d_loss: 0.001955, g_loss: 9.747042 D real: 0.998183, D fake: 0.000137
+292
+Epoch [292/500], d_loss: 0.000853, g_loss: 10.373160 D real: 0.999272, D fake: 0.000124
+293
+Epoch [293/500], d_loss: 0.000326, g_loss: 10.387128 D real: 0.999698, D fake: 0.000024
+294
+Epoch [294/500], d_loss: 0.000085, g_loss: 4.999619 D real: 1.000000, D fake: 0.000085
+295
+Epoch [295/500], d_loss: 0.305898, g_loss: 11.139647 D real: 0.736578, D fake: 0.000159
+296
+Epoch [296/500], d_loss: 0.000014, g_loss: 9.977806 D real: 0.999999, D fake: 0.000013
+297
+Epoch [297/500], d_loss: 0.000123, g_loss: 8.339781 D real: 0.999896, D fake: 0.000019
+298
+Epoch [298/500], d_loss: 0.000758, g_loss: 9.183352 D real: 1.000000, D fake: 0.000758
+299
+Epoch [299/500], d_loss: 0.000185, g_loss: 8.258104 D real: 0.999875, D fake: 0.000061
+300
+Epoch [300/500], d_loss: 0.000459, g_loss: 6.483387 D real: 0.999971, D fake: 0.000430
+301
+Epoch [301/500], d_loss: 0.000042, g_loss: 7.402905 D real: 0.999982, D fake: 0.000024
+302
+Epoch [302/500], d_loss: 3.298495, g_loss: 8.177794 D real: 0.036939, D fake: 0.000012
+303
+Epoch [303/500], d_loss: 0.000522, g_loss: 8.727869 D real: 0.999870, D fake: 0.000392
+304
+Epoch [304/500], d_loss: 0.056060, g_loss: 8.238704 D real: 0.952699, D fake: 0.007575
+305
+Epoch [305/500], d_loss: 0.000045, g_loss: 4.902480 D real: 1.000000, D fake: 0.000045
+306
+Epoch [306/500], d_loss: 0.090369, g_loss: 7.222752 D real: 0.916713, D fake: 0.003402
+307
+Epoch [307/500], d_loss: 0.042441, g_loss: 7.875231 D real: 0.999980, D fake: 0.041534
+308
+Epoch [308/500], d_loss: 0.032173, g_loss: 10.746887 D real: 0.968683, D fake: 0.000355
+309
+Epoch [309/500], d_loss: 0.000243, g_loss: 5.003822 D real: 0.999995, D fake: 0.000238
+310
+Epoch [310/500], d_loss: 0.053356, g_loss: 10.294825 D real: 0.948065, D fake: 0.000024
+311
+Epoch [311/500], d_loss: 0.000536, g_loss: 9.204411 D real: 0.999888, D fake: 0.000423
+312
+Epoch [312/500], d_loss: 0.001323, g_loss: 8.010184 D real: 0.998701, D fake: 0.000023
+313
+Epoch [313/500], d_loss: 0.110268, g_loss: 11.768620 D real: 0.895806, D fake: 0.000236
+314
+Epoch [314/500], d_loss: 0.031711, g_loss: 12.513532 D real: 0.973051, D fake: 0.004383
+315
+Epoch [315/500], d_loss: 4.958689, g_loss: 4.699978 D real: 0.007025, D fake: 0.000465
+316
+Epoch [316/500], d_loss: 1.314643, g_loss: 3.706882 D real: 0.268590, D fake: 0.000075
+317
+Epoch [317/500], d_loss: 0.000826, g_loss: 5.819702 D real: 1.000000, D fake: 0.000825
+318
+Epoch [318/500], d_loss: 0.214887, g_loss: 3.107267 D real: 0.812358, D fake: 0.007049
+319
+Epoch [319/500], d_loss: 0.007507, g_loss: 7.817498 D real: 0.999994, D fake: 0.007473
+320
+Epoch [320/500], d_loss: 5.998762, g_loss: 6.162064 D real: 0.002482, D fake: 0.000196
+321
+Epoch [321/500], d_loss: 0.007077, g_loss: 4.041131 D real: 1.000000, D fake: 0.007052
+322
+Epoch [322/500], d_loss: 0.000373, g_loss: 6.640828 D real: 1.000000, D fake: 0.000372
+323
+Epoch [323/500], d_loss: 4.383192, g_loss: 9.437814 D real: 0.012486, D fake: 0.000061
+324
+Epoch [324/500], d_loss: 1.133846, g_loss: 7.722703 D real: 0.321806, D fake: 0.000041
+325
+Epoch [325/500], d_loss: 0.378222, g_loss: 4.163979 D real: 0.685903, D fake: 0.001202
+326
+Epoch [326/500], d_loss: 0.001452, g_loss: 11.580162 D real: 1.000000, D fake: 0.001451
+327
+Epoch [327/500], d_loss: 2.026810, g_loss: 8.918915 D real: 0.131781, D fake: 0.000200
+328
+Epoch [328/500], d_loss: 0.084266, g_loss: 2.927432 D real: 0.962239, D fake: 0.044742
+329
+Epoch [329/500], d_loss: 0.000403, g_loss: 6.241044 D real: 0.999716, D fake: 0.000119
+330
+Epoch [330/500], d_loss: 0.000525, g_loss: 5.942628 D real: 1.000000, D fake: 0.000525
+331
+Epoch [331/500], d_loss: 0.000736, g_loss: 10.377926 D real: 0.999319, D fake: 0.000055
+332
+Epoch [332/500], d_loss: 3.830109, g_loss: 6.210204 D real: 0.021707, D fake: 0.000006
+333
+Epoch [333/500], d_loss: 0.229575, g_loss: 7.197065 D real: 0.999218, D fake: 0.204506
+334
+Epoch [334/500], d_loss: 0.000085, g_loss: 4.478672 D real: 1.000000, D fake: 0.000085
+335
+Epoch [335/500], d_loss: 0.011075, g_loss: 4.544566 D real: 0.999826, D fake: 0.010842
+336
+Epoch [336/500], d_loss: 0.000675, g_loss: 7.505816 D real: 0.999961, D fake: 0.000635
+337
+Epoch [337/500], d_loss: 0.000434, g_loss: 12.511536 D real: 1.000000, D fake: 0.000434
+338
+Epoch [338/500], d_loss: 0.000011, g_loss: 2.022324 D real: 1.000000, D fake: 0.000011
+339
+Epoch [339/500], d_loss: 0.321879, g_loss: 7.339784 D real: 0.724798, D fake: 0.000016
+340
+Epoch [340/500], d_loss: 0.000493, g_loss: 4.489032 D real: 0.999530, D fake: 0.000022
+341
+Epoch [341/500], d_loss: 0.174728, g_loss: 7.323183 D real: 0.840684, D fake: 0.001188
+342
+Epoch [342/500], d_loss: 0.000141, g_loss: 4.879293 D real: 1.000000, D fake: 0.000141
+343
+Epoch [343/500], d_loss: 0.000777, g_loss: 7.624273 D real: 1.000000, D fake: 0.000776
+344
+Epoch [344/500], d_loss: 0.000218, g_loss: 8.060433 D real: 1.000000, D fake: 0.000218
+345
+Epoch [345/500], d_loss: 0.002364, g_loss: 6.959694 D real: 0.999997, D fake: 0.002358
+346
+Epoch [346/500], d_loss: 0.000952, g_loss: 6.978243 D real: 0.999149, D fake: 0.000101
+347
+Epoch [347/500], d_loss: 3.073079, g_loss: 6.083339 D real: 0.046292, D fake: 0.000292
+348
+Epoch [348/500], d_loss: 0.041579, g_loss: 4.419438 D real: 0.959289, D fake: 0.000017
+349
+Epoch [349/500], d_loss: 0.000320, g_loss: 9.203897 D real: 0.999993, D fake: 0.000313
+350
+Epoch [350/500], d_loss: 0.011449, g_loss: 4.816624 D real: 1.000000, D fake: 0.011384
+351
+Epoch [351/500], d_loss: 1.501298, g_loss: 4.416232 D real: 0.222846, D fake: 0.000023
+352
+Epoch [352/500], d_loss: 0.000797, g_loss: 5.704025 D real: 1.000000, D fake: 0.000797
+353
+Epoch [353/500], d_loss: 2.141222, g_loss: 8.036214 D real: 0.118301, D fake: 0.006678
+354
+Epoch [354/500], d_loss: 0.102872, g_loss: 4.596244 D real: 1.000000, D fake: 0.097757
+355
+Epoch [355/500], d_loss: 0.001725, g_loss: 5.190485 D real: 0.999996, D fake: 0.001719
+356
+Epoch [356/500], d_loss: 0.000016, g_loss: 8.858407 D real: 1.000000, D fake: 0.000016
+357
+Epoch [357/500], d_loss: 0.001918, g_loss: 8.471815 D real: 1.000000, D fake: 0.001916
+358
+Epoch [358/500], d_loss: 2.202330, g_loss: 5.049142 D real: 0.110546, D fake: 0.000002
+359
+Epoch [359/500], d_loss: 0.000090, g_loss: 9.299473 D real: 0.999996, D fake: 0.000086
+360
+Epoch [360/500], d_loss: 0.013533, g_loss: 8.279958 D real: 0.991344, D fake: 0.004827
+361
+Epoch [361/500], d_loss: 0.044716, g_loss: 7.844173 D real: 1.000000, D fake: 0.043730
+362
+Epoch [362/500], d_loss: 0.073044, g_loss: 5.153764 D real: 0.956163, D fake: 0.027822
+363
+Epoch [363/500], d_loss: 0.175135, g_loss: 9.501398 D real: 0.839367, D fake: 0.000027
+364
+Epoch [364/500], d_loss: 0.019348, g_loss: 5.534550 D real: 1.000000, D fake: 0.019163
+365
+Epoch [365/500], d_loss: 0.004315, g_loss: 5.476770 D real: 1.000000, D fake: 0.004305
+366
+Epoch [366/500], d_loss: 0.000070, g_loss: 9.811526 D real: 1.000000, D fake: 0.000070
+367
+Epoch [367/500], d_loss: 0.001389, g_loss: 9.296252 D real: 0.998909, D fake: 0.000297
+368
+Epoch [368/500], d_loss: 1.386081, g_loss: 10.169193 D real: 0.250057, D fake: 0.000016
+369
+Epoch [369/500], d_loss: 0.022764, g_loss: 6.449494 D real: 1.000000, D fake: 0.022507
+370
+Epoch [370/500], d_loss: 0.000139, g_loss: 8.771329 D real: 1.000000, D fake: 0.000139
+371
+Epoch [371/500], d_loss: 0.049449, g_loss: 5.008109 D real: 1.000000, D fake: 0.048246
+372
+Epoch [372/500], d_loss: 0.000493, g_loss: 8.846544 D real: 1.000000, D fake: 0.000493
+373
+Epoch [373/500], d_loss: 0.000320, g_loss: 6.637315 D real: 1.000000, D fake: 0.000320
+374
+Epoch [374/500], d_loss: 0.003844, g_loss: 5.136345 D real: 0.999761, D fake: 0.003598
+375
+Epoch [375/500], d_loss: 0.017330, g_loss: 8.813037 D real: 0.999964, D fake: 0.017146
+376
+Epoch [376/500], d_loss: 0.000824, g_loss: 7.218380 D real: 1.000000, D fake: 0.000823
+377
+Epoch [377/500], d_loss: 0.001098, g_loss: 9.150875 D real: 1.000000, D fake: 0.001097
+378
+Epoch [378/500], d_loss: 1.949468, g_loss: 2.367832 D real: 0.142467, D fake: 0.000820
+379
+Epoch [379/500], d_loss: 0.055571, g_loss: 6.575537 D real: 0.999367, D fake: 0.053456
+380
+Epoch [380/500], d_loss: 0.111297, g_loss: 4.096607 D real: 1.000000, D fake: 0.105327
+381
+Epoch [381/500], d_loss: 0.004340, g_loss: 9.787602 D real: 0.995860, D fake: 0.000191
+382
+Epoch [382/500], d_loss: 0.015604, g_loss: 5.788236 D real: 1.000000, D fake: 0.015482
+383
+Epoch [383/500], d_loss: 1.816315, g_loss: 2.017865 D real: 0.162741, D fake: 0.000721
+384
+Epoch [384/500], d_loss: 2.425226, g_loss: 10.078732 D real: 0.088484, D fake: 0.000288
+385
+Epoch [385/500], d_loss: 0.000138, g_loss: 7.507812 D real: 1.000000, D fake: 0.000138
+386
+Epoch [386/500], d_loss: 0.000440, g_loss: 7.475662 D real: 1.000000, D fake: 0.000440
+387
+Epoch [387/500], d_loss: 0.123841, g_loss: 7.254209 D real: 0.883645, D fake: 0.000142
+388
+Epoch [388/500], d_loss: 0.000071, g_loss: 5.497680 D real: 1.000000, D fake: 0.000071
+389
+Epoch [389/500], d_loss: 0.015755, g_loss: 10.189352 D real: 1.000000, D fake: 0.015631
+390
+Epoch [390/500], d_loss: 0.000458, g_loss: 8.550871 D real: 0.999579, D fake: 0.000037
+391
+Epoch [391/500], d_loss: 0.000021, g_loss: 9.002334 D real: 0.999984, D fake: 0.000005
+392
+Epoch [392/500], d_loss: 0.000929, g_loss: 8.353326 D real: 0.999999, D fake: 0.000928
+393
+Epoch [393/500], d_loss: 0.000007, g_loss: 10.148237 D real: 1.000000, D fake: 0.000007
+394
+Epoch [394/500], d_loss: 0.013004, g_loss: 7.138931 D real: 0.987343, D fake: 0.000267
+395
+Epoch [395/500], d_loss: 1.234989, g_loss: 8.977512 D real: 0.290883, D fake: 0.000155
+396
+Epoch [396/500], d_loss: 0.000037, g_loss: 1.966742 D real: 1.000000, D fake: 0.000037
+397
+Epoch [397/500], d_loss: 4.645759, g_loss: 5.042394 D real: 0.009603, D fake: 0.000062
+398
+Epoch [398/500], d_loss: 0.015003, g_loss: 8.833770 D real: 0.999262, D fake: 0.014163
+399
+Epoch [399/500], d_loss: 1.481331, g_loss: 5.286261 D real: 0.999978, D fake: 0.772660
+400
+Epoch [400/500], d_loss: 0.000027, g_loss: 7.738405 D real: 0.999995, D fake: 0.000022
+401
+Epoch [401/500], d_loss: 0.015040, g_loss: 3.947242 D real: 0.988148, D fake: 0.003113
+402
+Epoch [402/500], d_loss: 0.000345, g_loss: 8.022457 D real: 1.000000, D fake: 0.000344
+403
+Epoch [403/500], d_loss: 0.000286, g_loss: 10.297916 D real: 0.999765, D fake: 0.000051
+404
+Epoch [404/500], d_loss: 0.162718, g_loss: 4.402608 D real: 0.849932, D fake: 0.000118
+405
+Epoch [405/500], d_loss: 0.000189, g_loss: 7.303474 D real: 0.999818, D fake: 0.000007
+406
+Epoch [406/500], d_loss: 0.000047, g_loss: 8.255644 D real: 1.000000, D fake: 0.000047
+407
+Epoch [407/500], d_loss: 2.546295, g_loss: 5.798649 D real: 0.078378, D fake: 0.000084
+408
+Epoch [408/500], d_loss: 1.754676, g_loss: 4.423465 D real: 0.173077, D fake: 0.000655
+409
+Epoch [409/500], d_loss: 2.073747, g_loss: 1.109173 D real: 0.125716, D fake: 0.000015
+410
+Epoch [410/500], d_loss: 0.116881, g_loss: 7.161314 D real: 0.891485, D fake: 0.002013
+411
+Epoch [411/500], d_loss: 0.021946, g_loss: 10.805214 D real: 0.999389, D fake: 0.021109
+412
+Epoch [412/500], d_loss: 0.000042, g_loss: 10.331397 D real: 1.000000, D fake: 0.000042
+413
+Epoch [413/500], d_loss: 0.291940, g_loss: 11.034610 D real: 0.746987, D fake: 0.000233
+414
+Epoch [414/500], d_loss: 1.201753, g_loss: 7.782817 D real: 0.300670, D fake: 0.000011
+415
+Epoch [415/500], d_loss: 0.001794, g_loss: 2.531991 D real: 1.000000, D fake: 0.001793
+416
+Epoch [416/500], d_loss: 0.001361, g_loss: 8.116818 D real: 1.000000, D fake: 0.001360
+417
+Epoch [417/500], d_loss: 0.023671, g_loss: 9.286728 D real: 0.976830, D fake: 0.000228
+418
+Epoch [418/500], d_loss: 0.000064, g_loss: 8.554786 D real: 1.000000, D fake: 0.000064
+419
+Epoch [419/500], d_loss: 0.150258, g_loss: 5.346361 D real: 0.883803, D fake: 0.026383
+420
+Epoch [420/500], d_loss: 0.511022, g_loss: 9.269708 D real: 0.600209, D fake: 0.000544
+421
+Epoch [421/500], d_loss: 0.049064, g_loss: 7.749083 D real: 1.000000, D fake: 0.047879
+422
+Epoch [422/500], d_loss: 0.000065, g_loss: 7.575277 D real: 1.000000, D fake: 0.000064
+423
+Epoch [423/500], d_loss: 0.000006, g_loss: 9.739371 D real: 1.000000, D fake: 0.000006
+424
+Epoch [424/500], d_loss: 0.000018, g_loss: 7.972564 D real: 1.000000, D fake: 0.000018
+425
+Epoch [425/500], d_loss: 0.168360, g_loss: 6.696515 D real: 0.845091, D fake: 0.000048
+426
+Epoch [426/500], d_loss: 0.000881, g_loss: 4.371856 D real: 1.000000, D fake: 0.000881
+427
+Epoch [427/500], d_loss: 0.005580, g_loss: 10.093716 D real: 0.995025, D fake: 0.000591
+428
+Epoch [428/500], d_loss: 0.018428, g_loss: 8.615881 D real: 1.000000, D fake: 0.018259
+429
+Epoch [429/500], d_loss: 0.456345, g_loss: 5.379567 D real: 0.651100, D fake: 0.026885
+430
+Epoch [430/500], d_loss: 0.000523, g_loss: 8.254210 D real: 0.999998, D fake: 0.000521
+431
+Epoch [431/500], d_loss: 0.006238, g_loss: 8.460071 D real: 1.000000, D fake: 0.006218
+432
+Epoch [432/500], d_loss: 0.087529, g_loss: 8.351653 D real: 0.935031, D fake: 0.020148
+433
+Epoch [433/500], d_loss: 3.569394, g_loss: 3.151140 D real: 0.029754, D fake: 0.053135
+434
+Epoch [434/500], d_loss: 0.001053, g_loss: 5.630560 D real: 1.000000, D fake: 0.001052
+435
+Epoch [435/500], d_loss: 0.000155, g_loss: 6.918664 D real: 1.000000, D fake: 0.000155
+436
+Epoch [436/500], d_loss: 0.000261, g_loss: 9.124603 D real: 1.000000, D fake: 0.000261
+437
+Epoch [437/500], d_loss: 0.004054, g_loss: 11.329673 D real: 1.000000, D fake: 0.004046
+438
+Epoch [438/500], d_loss: 0.000100, g_loss: 10.933223 D real: 1.000000, D fake: 0.000100
+439
+Epoch [439/500], d_loss: 0.661131, g_loss: 6.271526 D real: 0.516277, D fake: 0.000020
+440
+Epoch [440/500], d_loss: 0.005150, g_loss: 2.114553 D real: 0.997204, D fake: 0.002347
+441
+Epoch [441/500], d_loss: 0.006248, g_loss: 5.691792 D real: 0.999919, D fake: 0.006148
+442
+Epoch [442/500], d_loss: 0.005284, g_loss: 8.099697 D real: 0.995933, D fake: 0.001209
+443
+Epoch [443/500], d_loss: 0.004590, g_loss: 6.365690 D real: 0.999984, D fake: 0.004564
+444
+Epoch [444/500], d_loss: 0.000003, g_loss: 10.102614 D real: 1.000000, D fake: 0.000003
+445
+Epoch [445/500], d_loss: 0.002305, g_loss: 11.726511 D real: 0.997879, D fake: 0.000181
+446
+Epoch [446/500], d_loss: 0.000199, g_loss: 5.354736 D real: 0.999998, D fake: 0.000197
+447
+Epoch [447/500], d_loss: 0.000056, g_loss: 4.404547 D real: 0.999993, D fake: 0.000049
+448
+Epoch [448/500], d_loss: 0.509090, g_loss: 5.568084 D real: 0.601079, D fake: 0.000062
+449
+Epoch [449/500], d_loss: 0.000442, g_loss: 4.394498 D real: 1.000000, D fake: 0.000442
+450
+Epoch [450/500], d_loss: 0.210436, g_loss: 10.585900 D real: 0.810551, D fake: 0.000394
+451
+Epoch [451/500], d_loss: 0.000477, g_loss: 6.543345 D real: 1.000000, D fake: 0.000477
+452
+Epoch [452/500], d_loss: 0.000581, g_loss: 7.040404 D real: 0.999997, D fake: 0.000578
+453
+Epoch [453/500], d_loss: 0.057901, g_loss: 8.496578 D real: 0.943778, D fake: 0.000036
+454
+Epoch [454/500], d_loss: 0.169366, g_loss: 7.521780 D real: 0.844276, D fake: 0.000090
+455
+Epoch [455/500], d_loss: 0.001013, g_loss: 7.529010 D real: 0.999994, D fake: 0.001007
+456
+Epoch [456/500], d_loss: 0.160581, g_loss: 7.334183 D real: 0.895926, D fake: 0.049421
+457
+Epoch [457/500], d_loss: 0.000005, g_loss: 12.253874 D real: 1.000000, D fake: 0.000005
+458
+Epoch [458/500], d_loss: 0.013939, g_loss: 11.033942 D real: 0.987055, D fake: 0.000908
+459
+Epoch [459/500], d_loss: 0.153066, g_loss: 6.719816 D real: 0.858138, D fake: 0.000076
+460
+Epoch [460/500], d_loss: 0.000015, g_loss: 10.732078 D real: 1.000000, D fake: 0.000015
+461
+Epoch [461/500], d_loss: 0.003319, g_loss: 5.704462 D real: 1.000000, D fake: 0.003314
+462
+Epoch [462/500], d_loss: 3.268466, g_loss: 5.177588 D real: 0.038069, D fake: 0.000120
+463
+Epoch [463/500], d_loss: 0.092317, g_loss: 1.591861 D real: 0.928908, D fake: 0.018400
+464
+Epoch [464/500], d_loss: 0.007300, g_loss: 6.446631 D real: 0.999938, D fake: 0.007212
+465
+Epoch [465/500], d_loss: 0.000173, g_loss: 11.580495 D real: 1.000000, D fake: 0.000173
+466
+Epoch [466/500], d_loss: 0.016844, g_loss: 10.459445 D real: 0.999998, D fake: 0.016701
+467
+Epoch [467/500], d_loss: 0.000890, g_loss: 4.306244 D real: 1.000000, D fake: 0.000890
+468
+Epoch [468/500], d_loss: 0.347186, g_loss: 5.092075 D real: 0.707340, D fake: 0.000942
+469
+Epoch [469/500], d_loss: 0.072902, g_loss: 9.935059 D real: 0.932766, D fake: 0.003295
+470
+Epoch [470/500], d_loss: 0.000433, g_loss: 5.540496 D real: 1.000000, D fake: 0.000433
+471
+Epoch [471/500], d_loss: 0.000099, g_loss: 4.958434 D real: 0.999999, D fake: 0.000098
+472
+Epoch [472/500], d_loss: 0.535429, g_loss: 4.751969 D real: 0.585432, D fake: 0.000024
+473
+Epoch [473/500], d_loss: 0.600016, g_loss: 10.407670 D real: 0.664745, D fake: 0.174416
+474
+Epoch [474/500], d_loss: 0.000034, g_loss: 8.425012 D real: 1.000000, D fake: 0.000034
+475
+Epoch [475/500], d_loss: 0.000033, g_loss: 9.919619 D real: 1.000000, D fake: 0.000033
+476
+Epoch [476/500], d_loss: 0.022892, g_loss: 8.906235 D real: 0.999892, D fake: 0.022526
+477
+Epoch [477/500], d_loss: 0.000062, g_loss: 9.529315 D real: 1.000000, D fake: 0.000062
+478
+Epoch [478/500], d_loss: 1.934414, g_loss: 7.585000 D real: 0.144511, D fake: 0.000017
+479
+Epoch [479/500], d_loss: 0.135075, g_loss: 9.789553 D real: 0.873871, D fake: 0.000253
+480
+Epoch [480/500], d_loss: 0.000097, g_loss: 9.464582 D real: 1.000000, D fake: 0.000097
+481
+Epoch [481/500], d_loss: 0.001745, g_loss: 2.945916 D real: 0.999836, D fake: 0.001579
+482
+Epoch [482/500], d_loss: 0.001150, g_loss: 7.100436 D real: 0.999992, D fake: 0.001141
+483
+Epoch [483/500], d_loss: 0.000229, g_loss: 4.415475 D real: 1.000000, D fake: 0.000229
+484
+Epoch [484/500], d_loss: 0.174985, g_loss: 7.272779 D real: 0.839685, D fake: 0.000257
+485
+Epoch [485/500], d_loss: 0.000582, g_loss: 7.827214 D real: 1.000000, D fake: 0.000581
+486
+Epoch [486/500], d_loss: 0.044217, g_loss: 8.622396 D real: 0.956831, D fake: 0.000089
+487
+Epoch [487/500], d_loss: 0.000104, g_loss: 11.688545 D real: 1.000000, D fake: 0.000104
+488
+Epoch [488/500], d_loss: 5.447788, g_loss: 6.617215 D real: 0.004306, D fake: 0.000043
+489
+Epoch [489/500], d_loss: 8.498322, g_loss: 9.871946 D real: 0.000204, D fake: 0.000063
+490
+Epoch [490/500], d_loss: 1.849884, g_loss: 6.048011 D real: 0.157348, D fake: 0.000586
+491
+Epoch [491/500], d_loss: 0.338843, g_loss: 4.084597 D real: 0.720176, D fake: 0.010527
+492
+Epoch [492/500], d_loss: 0.033138, g_loss: 7.636737 D real: 0.972862, D fake: 0.005609
+493
+Epoch [493/500], d_loss: 0.096834, g_loss: 2.283656 D real: 0.908262, D fake: 0.000612
+494
+Epoch [494/500], d_loss: 0.441055, g_loss: 3.466200 D real: 0.644015, D fake: 0.001021
+495
+Epoch [495/500], d_loss: 0.000165, g_loss: 8.629269 D real: 0.999993, D fake: 0.000158
+496
+Epoch [496/500], d_loss: 0.000164, g_loss: 11.142713 D real: 0.999917, D fake: 0.000081
+497
+Epoch [497/500], d_loss: 0.000237, g_loss: 5.450731 D real: 0.999911, D fake: 0.000148
+498
+Epoch [498/500], d_loss: 0.574795, g_loss: 8.348730 D real: 0.563440, D fake: 0.001101
+499
+Epoch [499/500], d_loss: 0.001975, g_loss: 8.724788 D real: 1.000000, D fake: 0.001973
